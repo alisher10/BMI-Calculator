@@ -1,6 +1,6 @@
 # bmi_calculator
 
-A new Flutter project.
+This a simple BMI Calculator done during the completing an Angela Yu's Flutter Bootcamp
 
 ## Getting Started
 

@@ -15,4 +15,6 @@ samples, guidance on mobile development, and a full API reference.
 
 - [By using this calculator] -  you can easily calculate your personal BMI level and get some feedback according your results instantly
 
-This app was created during the completing an Angela Yu's Flutter Bootcamp with Dart course
+<img src="images/img1.jpg" alt="Image 1">
+<img src="images/img2.jpg" alt="Image 2">
+<img src="images/img3.jpg" alt="Image 3">
